@@ -1,4 +1,3 @@
 stat,player,which,line,roi_highest,count,over,site,under,datetime
-Total Rebounds,Stephen Curry,OVER,5.5,0.07146306711661038,2,150.0,BOV,-200.0,2022-02-16 14:59:47.177706
-Total Points,Quentin Grimes,OVER,12.5,0.03413024458899155,2,100.0,GB,-130.0,2022-02-16 14:59:47.244709
-Total Assists,Jalen Suggs,OVER,5.5,0.027919569733060652,2,-103.0,GB,-125.0,2022-02-16 14:59:47.244709
+"Total Points, Rebounds And Assists",Russell Westbrook,UNDER,29.5,0.026005471899118997,2,-150.0,BOV,115.0,2022-02-16 15:07:20.310243
+Total Rebounds,Royce O'Neale,UNDER,4.5,0.037918565261813406,2,100.0,GB,-130.0,2022-02-16 15:07:20.371987
