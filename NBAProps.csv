@@ -1,2 +1,5 @@
-which,roi_highest,count,line,over,player,site,stat,under,datetime,time
-OVER,0.04083734399216899,2,6.5,-108.0,Devin Booker,GB,Total Assists,-121.0,2022-02-24 15:19:41.637841,2022-02-24 15:19:41.640840
+stat,player,which,line,roi_highest,count,over,site,under,datetime,time
+Total Made 3 Point Shots,Mikal Bridges,OVER,1.5,0.035471748064588846,2,135.0,BOV,-180.0,2022-02-24 15:26:44.119946,2022-02-24 15:26:44.197962
+Total Made 3 Point Shots,Isaac Okoro,OVER,0.5,0.025385778683092282,2,-165.0,BOV,125.0,2022-02-24 15:26:44.119946,2022-02-24 15:26:44.197962
+Total Made 3 Point Shots,Seth Curry,UNDER,2.5,0.059758188317291176,2,-143.0,GB,110.0,2022-02-24 15:26:44.194961,2022-02-24 15:26:44.197962
+Total Assists,Devin Booker,OVER,6.5,0.0494598058404955,2,-106.0,GB,-124.0,2022-02-24 15:26:44.194961,2022-02-24 15:26:44.197962
