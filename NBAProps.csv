@@ -1,2 +1,2 @@
-which,roi_highest,count,line,over,player,site,stat,under,datetime,time
-UNDER,0.03264116400948784,2,1.5,120.0,Mikal Bridges,GB,Total Made 3 Point Shots,-157.0,2022-02-25 15:35:05.689665,2022-02-25 15:35:05.693666
+stat,player,which,line,roi_highest,count,over,site,under,datetime,time
+Total Made 3 Point Shots,Mikal Bridges,UNDER,1.5,0.03264116400948784,2,120.0,GB,-157.0,2022-02-25 15:42:29.894660,2022-02-25 15:42:29.897661
