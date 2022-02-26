@@ -1,4 +1,3 @@
-stat,player,which,line,roi_highest,count,over,site,under,datetime,time
-Total Made 3 Point Shots,Mikal Bridges,OVER,1.5,0.05982785048932904,2,155.0,BOV,-210.0,2022-02-25 16:23:44.078635,2022-02-25 16:23:44.145650
-Total Points,Luka Doncic,UNDER,31.5,0.033020959359289746,2,-126.0,GB,-104.0,2022-02-25 16:23:44.143650,2022-02-25 16:23:44.145650
-Total Made 3 Point Shots,James Harden,UNDER,2.5,0.02642144445482828,2,104.0,GB,-136.0,2022-02-25 16:23:44.143650,2022-02-25 16:23:44.145650
+which,roi_highest,count,line,over,player,site,stat,under,datetime,time
+UNDER,0.033020959359289746,2,31.5,-126.0,Luka Doncic,GB,Total Points,-104.0,2022-02-25 16:30:11.271797,2022-02-25 16:30:11.273797
+UNDER,0.02642144445482828,2,2.5,104.0,James Harden,GB,Total Made 3 Point Shots,-136.0,2022-02-25 16:30:11.271797,2022-02-25 16:30:11.273797
