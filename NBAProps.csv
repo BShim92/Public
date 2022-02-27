@@ -1,2 +1,2 @@
-which,roi_highest,count,line,over,player,site,stat,under,datetime,time
-UNDER,0.027416932761395646,2,8.5,-136.0,Mason Plumlee,GB,Total Rebounds,104.0,2022-02-27 13:20:11.437581,2022-02-27 13:20:11.440582
+stat,player,which,line,roi_highest,count,over,site,under,datetime,time
+Total Rebounds,Mason Plumlee,UNDER,8.5,0.027416932761395646,2,-136.0,GB,104.0,2022-02-27 13:26:45.821362,2022-02-27 13:26:45.824371
