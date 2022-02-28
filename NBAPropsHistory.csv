@@ -1,4 +1,5 @@
 player,stat,line,which,over,under,betsite,smartsite,overml,underml,time
+Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,PIN,101.0,-134.0,2022-02-28 11:09:13
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,PIN,101.0,-134.0,2022-02-28 11:02:33
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,PIN,101.0,-134.0,2022-02-28 10:56:00
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,PIN,101.0,-134.0,2022-02-28 10:49:43
@@ -8,7 +9,7 @@ Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,PIN,101.0,-134.0,
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,PIN,101.0,-134.0,2022-02-28 10:24:37
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,PIN,101.0,-134.0,2022-02-28 10:18:21
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,PIN,101.0,-134.0,2022-02-28 10:12:09
-Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,PIN,101.0,-134.0,2022-02-28 10:05:54
+Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,GB,120.0,-157.0,2022-02-28 11:08:45
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,GB,120.0,-157.0,2022-02-28 11:02:02
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,GB,120.0,-157.0,2022-02-28 10:55:23
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,GB,120.0,-157.0,2022-02-28 10:49:04
@@ -18,8 +19,9 @@ Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,GB,120.0,-157.0,2
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,GB,120.0,-157.0,2022-02-28 10:23:59
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,GB,120.0,-157.0,2022-02-28 10:17:46
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,GB,120.0,-157.0,2022-02-28 10:11:32
-Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,GB,120.0,-157.0,2022-02-28 10:05:18
+Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,BOV,100.0,-130.0,2022-02-28 11:06:39
 Jimmy Butler,Total Made 3 Point Shots,0.5,OVER,120.0,-157.0,GB,BOV,100.0,-130.0,2022-02-28 10:59:58
+DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,PIN,111.0,-149.0,2022-02-28 11:09:13
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,PIN,111.0,-149.0,2022-02-28 11:02:33
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,PIN,111.0,-149.0,2022-02-28 10:56:00
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,PIN,111.0,-149.0,2022-02-28 10:49:43
@@ -29,7 +31,7 @@ DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,PIN,111.0,-149.0,2022-02
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,PIN,111.0,-149.0,2022-02-28 10:24:37
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,PIN,111.0,-149.0,2022-02-28 10:18:21
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,PIN,111.0,-149.0,2022-02-28 10:12:09
-DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,PIN,111.0,-149.0,2022-02-28 10:05:54
+DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,GB,104.0,-136.0,2022-02-28 11:08:45
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,GB,108.0,-141.0,2022-02-28 11:02:02
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,GB,108.0,-141.0,2022-02-28 10:55:23
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,GB,108.0,-141.0,2022-02-28 10:49:04
@@ -39,5 +41,5 @@ DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,GB,108.0,-141.0,2022-02-
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,GB,108.0,-141.0,2022-02-28 10:23:59
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,GB,108.0,-141.0,2022-02-28 10:17:46
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,GB,108.0,-141.0,2022-02-28 10:11:32
-DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,GB,108.0,-141.0,2022-02-28 10:05:18
+DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-02-28 11:06:39
 DeMar DeRozan,Total Assists,5.5,UNDER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-02-28 10:59:58
