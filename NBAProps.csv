@@ -1,2 +1,3 @@
-which,roi_highest,count,line,over,player,site,stat,under,datetime,time
-OVER,0.04329666921143471,2,3.5,120.0,Mikal Bridges,GB,Total Assists,-157.0,2022-03-02 17:55:21.561678,2022-03-02 17:55:21.563678
+stat,player,which,line,roi_highest,count,over,site,under,datetime,time
+Total Made 3 Point Shots,Tre Mann,UNDER,2.5,0.04304840372362499,2,100.0,BOV,-130.0,2022-03-02 17:58:27.123924,2022-03-02 17:58:27.187934
+Total Assists,Mikal Bridges,OVER,3.5,0.04329666921143471,2,120.0,GB,-157.0,2022-03-02 17:58:27.184937,2022-03-02 17:58:27.187934
