@@ -1,2 +1,3 @@
-which,roi_highest,count,line,over,player,site,stat,under,datetime,time
-OVER,0.06253668845145396,2,3.5,120.0,Mikal Bridges,GB,Total Assists,-157.0,2022-03-02 16:07:56.089938,2022-03-02 16:07:56.091938
+stat,player,which,line,roi_highest,count,over,site,under,datetime,time
+Total Points,Deandre Ayton,OVER,18.5,0.02590090522269052,2,-110.0,BOV,-120.0,2022-03-02 16:12:09.124198,2022-03-02 16:12:09.189213
+Total Assists,Mikal Bridges,OVER,3.5,0.06253668845145396,2,120.0,GB,-157.0,2022-03-02 16:12:09.186221,2022-03-02 16:12:09.189213
