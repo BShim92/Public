@@ -1,4 +1,2 @@
-stat,player,which,line,roi_highest,count,over,site,under,datetime,time
-Total Points,Deandre Ayton,OVER,18.5,0.02590090522269052,2,-110.0,BOV,-120.0,2022-03-02 16:25:44.372620,2022-03-02 16:25:44.437625
-Total Assists,Mikal Bridges,OVER,3.5,0.06253668845145396,2,120.0,GB,-157.0,2022-03-02 16:25:44.435634,2022-03-02 16:25:44.437625
-Total Made 3 Point Shots,Tyrese Maxey,UNDER,1.5,0.04742219150253565,2,-121.0,GB,-108.0,2022-03-02 16:25:44.435634,2022-03-02 16:25:44.437625
+which,roi_highest,count,line,over,player,site,stat,under,datetime,time
+UNDER,0.04742219150253565,2,1.5,-121.0,Tyrese Maxey,GB,Total Made 3 Point Shots,-108.0,2022-03-02 16:30:05.087310,2022-03-02 16:30:05.090311
