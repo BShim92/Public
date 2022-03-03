@@ -1,3 +1,2 @@
-stat,player,which,line,roi_highest,count,over,site,under,datetime,time
-Total Made 3 Point Shots,Mikal Bridges,OVER,1.5,0.02827196773264188,2,150.0,BOV,-200.0,2022-03-02 17:07:10.390662,2022-03-02 17:07:10.456685
-Total Assists,Mikal Bridges,OVER,3.5,0.04329666921143471,2,120.0,GB,-157.0,2022-03-02 17:07:10.453685,2022-03-02 17:07:10.456685
+which,roi_highest,count,line,over,player,site,stat,under,datetime,time
+OVER,0.04329666921143471,2,3.5,120.0,Mikal Bridges,GB,Total Assists,-157.0,2022-03-02 17:10:26.503497,2022-03-02 17:10:26.506497
