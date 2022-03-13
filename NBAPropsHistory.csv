@@ -1,4 +1,5 @@
 player,stat,line,which,over,under,betsite,smartsite,overml,underml,time
+Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,PIN,-119.0,-113.0,2022-03-13 15:57:32
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,PIN,-119.0,-113.0,2022-03-13 15:51:41
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,PIN,-119.0,-113.0,2022-03-13 15:47:43
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,PIN,-119.0,-113.0,2022-03-13 15:43:46
@@ -11,8 +12,7 @@ Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,PIN,-130.0,-103.0,2022-0
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,PIN,-130.0,-103.0,2022-03-13 15:08:10
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,PIN,-130.0,-103.0,2022-03-13 15:04:26
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,PIN,-130.0,-103.0,2022-03-13 15:00:33
-Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,PIN,-130.0,-103.0,2022-03-13 14:56:41
-Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,PIN,-130.0,-103.0,2022-03-13 14:52:47
+Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,GB,-124.0,-106.0,2022-03-13 15:55:08
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,GB,-130.0,100.0,2022-03-13 15:50:32
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,GB,-130.0,100.0,2022-03-13 15:46:38
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,GB,-130.0,100.0,2022-03-13 15:42:14
@@ -27,7 +27,7 @@ Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,GB,-130.0,100.0,2022-03-
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,GB,-130.0,100.0,2022-03-13 15:06:53
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,GB,-130.0,100.0,2022-03-13 15:03:10
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,GB,-130.0,100.0,2022-03-13 14:59:09
-Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,GB,-130.0,100.0,2022-03-13 14:55:12
+Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,BOV,-150.0,115.0,2022-03-13 15:57:18
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,BOV,-150.0,115.0,2022-03-13 15:51:29
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,BOV,-150.0,115.0,2022-03-13 15:47:33
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,BOV,-150.0,115.0,2022-03-13 15:43:09
@@ -42,26 +42,46 @@ Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,BOV,-150.0,115.0,2022-03
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,BOV,-150.0,115.0,2022-03-13 15:07:37
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,BOV,-150.0,115.0,2022-03-13 15:03:54
 Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,BOV,-150.0,115.0,2022-03-13 15:00:04
-Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,BOV,-150.0,115.0,2022-03-13 14:56:09
-Mikal Bridges,Total Rebounds,4.5,UNDER,-150.0,115.0,BOV,BOV,-150.0,115.0,2022-03-13 14:52:17
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,PIN,-141.0,106.0,2022-03-13 15:51:52
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,PIN,-120.0,-112.0,2022-03-13 15:30:47
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,PIN,-120.0,-112.0,2022-03-13 15:27:11
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,PIN,-120.0,-112.0,2022-03-13 15:23:19
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,PIN,-106.0,-125.0,2022-03-13 15:00:23
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,PIN,-106.0,-125.0,2022-03-13 14:56:31
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,PIN,-106.0,-125.0,2022-03-13 14:52:37
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,GB,-110.0,-118.0,2022-03-13 15:50:32
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,GB,-110.0,-118.0,2022-03-13 15:46:38
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,GB,-110.0,-118.0,2022-03-13 15:29:41
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,GB,-108.0,-121.0,2022-03-13 15:25:56
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,GB,-108.0,-121.0,2022-03-13 15:22:04
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,GB,-108.0,-121.0,2022-03-13 15:18:09
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,GB,-108.0,-121.0,2022-03-13 15:14:18
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,GB,102.0,-134.0,2022-03-13 14:59:09
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,GB,102.0,-134.0,2022-03-13 14:55:12
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,BOV,105.0,-135.0,2022-03-13 15:50:58
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,BOV,105.0,-135.0,2022-03-13 15:47:04
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,BOV,105.0,-135.0,2022-03-13 15:42:42
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,BOV,105.0,-135.0,2022-03-13 15:38:14
-Buddy Hield,Total Made 3 Point Shots,3.5,OVER,105.0,-135.0,BOV,BOV,105.0,-135.0,2022-03-13 15:34:08
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-104.0,-128.0,2022-03-13 15:57:32
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-104.0,-128.0,2022-03-13 15:51:41
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-104.0,-128.0,2022-03-13 15:47:43
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-104.0,-128.0,2022-03-13 15:43:46
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-104.0,-128.0,2022-03-13 15:39:13
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-104.0,-128.0,2022-03-13 15:35:11
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-104.0,-128.0,2022-03-13 15:31:01
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-119.0,-112.0,2022-03-13 15:23:08
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-119.0,-112.0,2022-03-13 15:19:14
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-119.0,-112.0,2022-03-13 15:15:22
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-119.0,-112.0,2022-03-13 15:08:10
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-119.0,-112.0,2022-03-13 15:04:26
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,PIN,-119.0,-112.0,2022-03-13 15:00:33
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-104.0,-126.0,2022-03-13 15:55:08
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-114.0,-114.0,2022-03-13 15:50:32
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:46:38
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:42:14
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:37:49
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:33:42
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:29:41
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:25:56
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:22:04
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:18:09
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:14:18
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:10:37
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:06:53
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 15:03:10
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,GB,-124.0,-105.0,2022-03-13 14:59:09
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:57:18
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:51:29
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:47:33
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:43:09
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:38:40
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:34:34
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:30:30
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:26:45
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:22:52
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:18:57
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:15:06
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:11:22
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:07:37
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:03:54
+Deandre Ayton,Total Assists,1.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-13 15:00:04
