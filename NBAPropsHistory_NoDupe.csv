@@ -1,29 +1,23 @@
 player,stat,line,which,over,under,betsite,smartsite,overml,underml,time
-Tobias Harris,Total Made 3 Point Shots,1.5,OVER,125.0,-165.0,BOV,PIN,108.0,-146.0,2022-03-14 16:03:45.170282
-Tobias Harris,Total Made 3 Point Shots,1.5,OVER,125.0,-165.0,BOV,GB,100.0,-130.0,2022-03-14 16:03:45.170282
-Tobias Harris,Total Made 3 Point Shots,1.5,OVER,125.0,-165.0,BOV,GB,104.0,-136.0,2022-03-14 16:03:45.170282
-Tobias Harris,Total Made 3 Point Shots,1.5,OVER,125.0,-165.0,BOV,GB,120.0,-157.0,2022-03-14 16:03:45.170282
-Tobias Harris,Total Made 3 Point Shots,1.5,OVER,125.0,-165.0,BOV,BOV,125.0,-165.0,2022-03-14 16:03:45.170282
-Tobias Harris,Total Made 3 Point Shots,1.5,OVER,125.0,-165.0,BOV,BOV,130.0,-170.0,2022-03-14 16:03:45.170282
-Royce O'Neale,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,-114.0,-117.0,2022-03-14 16:03:45.170282
-Royce O'Neale,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,112.0,-149.0,2022-03-14 16:03:45.170282
-Royce O'Neale,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,100.0,-130.0,2022-03-14 16:03:45.170282
-Royce O'Neale,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-03-14 16:03:45.170282
-Pascal Siakam,Total Points,22.5,OVER,-110.0,-120.0,BOV,PIN,-138.0,103.0,2022-03-14 16:03:45.170282
-Pascal Siakam,Total Points,22.5,OVER,-110.0,-120.0,BOV,GB,-136.0,104.0,2022-03-14 16:03:45.170282
-Pascal Siakam,Total Points,22.5,OVER,-110.0,-120.0,BOV,GB,-130.0,100.0,2022-03-14 16:03:45.170282
-Pascal Siakam,Total Points,22.5,OVER,-110.0,-120.0,BOV,BOV,-110.0,-120.0,2022-03-14 16:03:45.170282
-Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,PIN,-104.0,-128.0,2022-03-14 16:03:45.170282
-Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,PIN,-111.0,-119.0,2022-03-14 16:03:45.170282
-Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,GB,-110.0,-118.0,2022-03-14 16:03:45.170282
-Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,GB,-112.0,-117.0,2022-03-14 16:03:45.170282
-Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,GB,-117.0,-112.0,2022-03-14 16:03:45.170282
-Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,GB,-118.0,-110.0,2022-03-14 16:03:45.170282
-Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-14 16:03:45.170282
-Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,PIN,-133.0,100.0,2022-03-14 16:03:45.170282
-Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,PIN,-100.0,-132.0,2022-03-14 16:03:45.170282
-Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,GB,-118.0,-110.0,2022-03-14 16:03:45.170282
-Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,GB,-127.0,-103.0,2022-03-14 16:03:45.170282
-Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,GB,102.0,-132.0,2022-03-14 16:03:45.170282
-Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,GB,100.0,-130.0,2022-03-14 16:03:45.170282
-Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,BOV,100.0,-130.0,2022-03-14 16:03:45.170282
+Royce O'Neale,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,-114.0,-117.0,2022-03-14 16:08:56.944224
+Royce O'Neale,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,100.0,-130.0,2022-03-14 16:08:56.944224
+Royce O'Neale,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-03-14 16:08:56.944224
+Pascal Siakam,Total Points,22.5,OVER,-110.0,-120.0,BOV,PIN,-138.0,103.0,2022-03-14 16:08:56.944224
+Pascal Siakam,Total Points,22.5,OVER,-110.0,-120.0,BOV,GB,-136.0,104.0,2022-03-14 16:08:56.944224
+Pascal Siakam,Total Points,22.5,OVER,-110.0,-120.0,BOV,GB,-130.0,100.0,2022-03-14 16:08:56.944224
+Pascal Siakam,Total Points,22.5,OVER,-110.0,-120.0,BOV,BOV,-110.0,-120.0,2022-03-14 16:08:56.944224
+Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,PIN,-104.0,-128.0,2022-03-14 16:08:56.944224
+Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,PIN,-111.0,-119.0,2022-03-14 16:08:56.944224
+Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,GB,-110.0,-118.0,2022-03-14 16:08:56.944224
+Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,GB,-112.0,-117.0,2022-03-14 16:08:56.944224
+Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,GB,-117.0,-112.0,2022-03-14 16:08:56.944224
+Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,GB,-118.0,-110.0,2022-03-14 16:08:56.944224
+Mason Plumlee,"Total Points, Rebounds And Assists",17.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-14 16:08:56.944224
+Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,PIN,-133.0,100.0,2022-03-14 16:08:56.944224
+Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,PIN,-100.0,-132.0,2022-03-14 16:08:56.944224
+Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,GB,-117.0,-112.0,2022-03-14 16:08:56.944224
+Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,GB,-118.0,-110.0,2022-03-14 16:08:56.944224
+Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,GB,-127.0,-103.0,2022-03-14 16:08:56.944224
+Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,GB,102.0,-132.0,2022-03-14 16:08:56.944224
+Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,GB,100.0,-130.0,2022-03-14 16:08:56.944224
+Darius Bazley,Total Rebounds,7.5,OVER,100.0,-130.0,BOV,BOV,100.0,-130.0,2022-03-14 16:08:56.944224
