@@ -1,4 +1,5 @@
 player,stat,line,which,over,under,betsite,smartsite,overml,underml,time
+Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,PIN,-159.0,125.0,2022-03-16 16:18:32
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,PIN,-159.0,125.0,2022-03-16 16:13:09
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,PIN,-159.0,125.0,2022-03-16 16:07:36
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,PIN,-159.0,125.0,2022-03-16 16:01:55
@@ -9,7 +10,7 @@ Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,PIN,-159.0,125.0,2022-03
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,PIN,-159.0,125.0,2022-03-16 15:35:03
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,PIN,-159.0,125.0,2022-03-16 15:29:34
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,PIN,-159.0,125.0,2022-03-16 15:23:46
-Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,PIN,-159.0,125.0,2022-03-16 15:17:32
+Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,GB,-152.0,116.0,2022-03-16 16:16:42
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,GB,-152.0,116.0,2022-03-16 16:11:12
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,GB,-162.0,123.0,2022-03-16 16:05:35
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,GB,-162.0,123.0,2022-03-16 16:00:08
@@ -20,9 +21,10 @@ Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,GB,-159.0,122.0,2022-03-
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,GB,-159.0,122.0,2022-03-16 15:32:52
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,GB,-159.0,122.0,2022-03-16 15:27:11
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,GB,-159.0,122.0,2022-03-16 15:21:04
-Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,GB,-159.0,122.0,2022-03-16 15:14:48
+Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-03-16 16:17:57
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-03-16 16:12:28
 Klay Thompson,Total Rebounds,3.5,OVER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-03-16 16:06:55
+Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,PIN,121.0,-163.0,2022-03-16 16:18:32
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,PIN,121.0,-163.0,2022-03-16 16:13:09
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,PIN,121.0,-163.0,2022-03-16 16:07:36
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,PIN,121.0,-163.0,2022-03-16 16:01:55
@@ -33,7 +35,7 @@ Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,PIN,121.0,-163.
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,PIN,121.0,-163.0,2022-03-16 15:35:03
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,PIN,121.0,-163.0,2022-03-16 15:29:34
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,PIN,121.0,-163.0,2022-03-16 15:23:46
-Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,PIN,121.0,-163.0,2022-03-16 15:17:32
+Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,GB,124.0,-162.0,2022-03-16 16:16:42
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,GB,124.0,-162.0,2022-03-16 16:11:12
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,GB,124.0,-162.0,2022-03-16 16:05:35
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,GB,124.0,-162.0,2022-03-16 16:00:08
@@ -44,26 +46,10 @@ Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,GB,118.0,-154.0
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,GB,118.0,-154.0,2022-03-16 15:32:52
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,GB,118.0,-154.0,2022-03-16 15:27:11
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,GB,118.0,-154.0,2022-03-16 15:21:04
-Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,GB,118.0,-154.0,2022-03-16 15:14:48
+Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,BOV,150.0,-200.0,2022-03-16 16:17:57
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,BOV,150.0,-200.0,2022-03-16 16:12:28
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,BOV,150.0,-200.0,2022-03-16 16:06:55
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,BOV,150.0,-200.0,2022-03-16 16:01:10
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,BOV,150.0,-200.0,2022-03-16 15:56:02
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,BOV,150.0,-200.0,2022-03-16 15:50:31
 Klay Thompson,Total Made 3 Point Shots,3.5,OVER,150.0,-200.0,BOV,BOV,150.0,-200.0,2022-03-16 15:45:15
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,PIN,-176.0,129.0,2022-03-16 16:13:31
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,PIN,-176.0,129.0,2022-03-16 16:08:06
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,PIN,-143.0,107.0,2022-03-16 15:29:53
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,PIN,-143.0,107.0,2022-03-16 15:18:03
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,GB,-159.0,122.0,2022-03-16 16:11:12
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,GB,-159.0,122.0,2022-03-16 16:05:35
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,GB,-159.0,122.0,2022-03-16 16:00:08
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,GB,-136.0,104.0,2022-03-16 15:32:52
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,GB,-136.0,104.0,2022-03-16 15:27:11
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,GB,-136.0,104.0,2022-03-16 15:21:04
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,GB,-136.0,104.0,2022-03-16 15:14:48
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-16 16:12:03
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-16 15:33:48
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-16 15:28:25
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-16 15:22:34
-Cameron Payne,Total Made 3 Point Shots,1.5,OVER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-16 15:16:14
