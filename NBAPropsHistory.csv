@@ -1,4 +1,5 @@
 player,stat,line,which,over,under,betsite,smartsite,overml,underml,time
+RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,PIN,-125.0,-106.0,2022-03-20 14:46:06
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,PIN,-125.0,-106.0,2022-03-20 14:40:45
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,PIN,-125.0,-106.0,2022-03-20 14:35:39
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,PIN,-125.0,-106.0,2022-03-20 14:30:29
@@ -10,6 +11,7 @@ RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,PIN,-125.0,-106.0,2022-03-2
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,PIN,-125.0,-106.0,2022-03-20 13:57:25
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,PIN,-125.0,-106.0,2022-03-20 13:52:33
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,PIN,-125.0,-106.0,2022-03-20 13:47:32
+RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,GB,-130.0,100.0,2022-03-20 14:44:26
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,GB,-130.0,100.0,2022-03-20 14:39:10
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,GB,-130.0,100.0,2022-03-20 14:34:05
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,GB,-130.0,100.0,2022-03-20 14:28:50
@@ -21,8 +23,7 @@ RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,GB,-130.0,100.0,2022-03-20 
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,GB,-130.0,100.0,2022-03-20 14:00:47
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,GB,-130.0,100.0,2022-03-20 13:55:54
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,GB,-130.0,100.0,2022-03-20 13:51:00
-RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,GB,-130.0,100.0,2022-03-20 13:46:09
-RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,GB,-130.0,100.0,2022-03-20 13:41:30
+RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,BOV,-160.0,120.0,2022-03-20 14:45:12
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,BOV,-160.0,120.0,2022-03-20 14:39:54
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,BOV,-160.0,120.0,2022-03-20 14:34:49
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,BOV,-160.0,120.0,2022-03-20 14:29:37
@@ -35,69 +36,40 @@ RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,BOV,-160.0,120.0,2022-03-20
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,BOV,-160.0,120.0,2022-03-20 13:56:35
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,BOV,-160.0,120.0,2022-03-20 13:51:40
 RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,BOV,-160.0,120.0,2022-03-20 13:46:40
-RJ Barrett,Total Rebounds,5.5,UNDER,-160.0,120.0,BOV,BOV,-160.0,120.0,2022-03-20 13:42:01
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,PIN,-141.0,105.0,2022-03-20 14:40:50
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,PIN,-169.0,125.0,2022-03-20 14:35:45
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,PIN,-169.0,125.0,2022-03-20 14:30:35
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,PIN,-169.0,125.0,2022-03-20 14:25:39
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,PIN,-169.0,125.0,2022-03-20 14:17:24
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,PIN,-169.0,125.0,2022-03-20 14:12:28
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,PIN,-169.0,125.0,2022-03-20 14:07:21
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,PIN,-169.0,125.0,2022-03-20 14:02:24
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-173.0,131.0,2022-03-20 14:39:10
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-176.0,134.0,2022-03-20 14:34:05
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-167.0,127.0,2022-03-20 14:28:50
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-167.0,127.0,2022-03-20 14:23:59
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-167.0,127.0,2022-03-20 14:20:50
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-167.0,127.0,2022-03-20 14:15:44
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-167.0,127.0,2022-03-20 14:10:53
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-170.0,129.0,2022-03-20 14:05:51
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-173.0,131.0,2022-03-20 14:00:47
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-173.0,131.0,2022-03-20 13:55:54
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-170.0,129.0,2022-03-20 13:51:00
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-167.0,127.0,2022-03-20 13:46:09
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,GB,-173.0,131.0,2022-03-20 13:41:30
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,BOV,-200.0,150.0,2022-03-20 14:39:42
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,BOV,-200.0,150.0,2022-03-20 14:34:38
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,BOV,-200.0,150.0,2022-03-20 14:29:25
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,BOV,-160.0,120.0,2022-03-20 14:24:31
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,BOV,-160.0,120.0,2022-03-20 14:21:21
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,BOV,-160.0,120.0,2022-03-20 14:16:15
-Devin Booker,Total Made 3 Point Shots,2.5,UNDER,-200.0,150.0,BOV,BOV,-160.0,120.0,2022-03-20 14:11:15
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 14:41:01
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 14:35:55
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 14:30:45
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 14:17:34
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 14:12:39
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 14:07:32
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 14:02:34
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 13:57:42
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 13:52:49
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 13:47:46
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,PIN,-104.0,-128.0,2022-03-20 13:43:05
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 14:39:10
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 14:34:05
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 14:28:50
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 14:23:59
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 14:20:50
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 14:15:44
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 14:10:53
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 14:05:51
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 14:00:47
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 13:55:54
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 13:51:00
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 13:46:09
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,GB,114.0,-150.0,2022-03-20 13:41:30
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 14:40:21
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 14:35:17
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 14:30:05
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 14:25:11
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 14:22:01
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 14:16:54
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 14:11:57
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 14:06:53
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 14:01:56
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 13:57:03
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 13:52:08
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 13:47:08
-Andrew Wiggins,Total Assists,2.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-03-20 13:42:28
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 14:46:06
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 14:40:45
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 14:35:39
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 14:30:29
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 14:25:33
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 14:17:18
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 14:12:23
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 14:07:16
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 14:02:19
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 13:57:25
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 13:52:33
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,PIN,107.0,-142.0,2022-03-20 13:47:32
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-106.0,-124.0,2022-03-20 14:44:26
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-106.0,-124.0,2022-03-20 14:39:10
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-106.0,-124.0,2022-03-20 14:34:05
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-106.0,-124.0,2022-03-20 14:28:50
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-106.0,-124.0,2022-03-20 14:23:59
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-106.0,-124.0,2022-03-20 14:20:50
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-106.0,-124.0,2022-03-20 14:15:44
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-113.0,-115.0,2022-03-20 14:10:53
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-113.0,-115.0,2022-03-20 14:05:51
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-113.0,-115.0,2022-03-20 14:00:47
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-113.0,-115.0,2022-03-20 13:55:54
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,GB,-113.0,-115.0,2022-03-20 13:51:00
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-20 14:45:12
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 14:39:54
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 14:34:49
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 14:29:37
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 14:24:43
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 14:21:33
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 14:16:27
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 14:11:28
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 14:06:23
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 14:01:29
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 13:56:35
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 13:51:40
+RJ Barrett,"Total Points, Rebounds And Assists",33.5,UNDER,-130.0,100.0,BOV,BOV,-115.0,-115.0,2022-03-20 13:46:40
