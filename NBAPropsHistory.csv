@@ -1,9 +1,13 @@
 player,stat,line,which,over,under,betsite,smartsite,overml,underml,time
-Seth Curry,Total Assists,3.5,UNDER,-110.0,-120.0,BOV,PIN,139.0,-191.0,2022-03-21 15:11:26
-Seth Curry,Total Assists,3.5,UNDER,-110.0,-120.0,BOV,GB,120.0,-157.0,2022-03-21 15:09:35
-Seth Curry,Total Assists,3.5,UNDER,-110.0,-120.0,BOV,GB,134.0,-176.0,2022-03-21 15:03:46
-Seth Curry,Total Assists,3.5,UNDER,-110.0,-120.0,BOV,BOV,-110.0,-120.0,2022-03-21 15:10:24
-Seth Curry,Total Assists,3.5,UNDER,-110.0,-120.0,BOV,BOV,-110.0,-120.0,2022-03-21 15:04:33
+Seth Curry,Total Assists,3.5,UNDER,105.0,-135.0,BOV,PIN,139.0,-191.0,2022-03-21 15:17:29
+Seth Curry,Total Assists,3.5,UNDER,105.0,-135.0,BOV,PIN,139.0,-191.0,2022-03-21 15:11:26
+Seth Curry,Total Assists,3.5,UNDER,105.0,-135.0,BOV,GB,127.0,-167.0,2022-03-21 15:15:32
+Seth Curry,Total Assists,3.5,UNDER,105.0,-135.0,BOV,GB,120.0,-157.0,2022-03-21 15:09:35
+Seth Curry,Total Assists,3.5,UNDER,105.0,-135.0,BOV,GB,134.0,-176.0,2022-03-21 15:03:46
+Seth Curry,Total Assists,3.5,UNDER,105.0,-135.0,BOV,BOV,105.0,-135.0,2022-03-21 15:16:25
+Seth Curry,Total Assists,3.5,UNDER,105.0,-135.0,BOV,BOV,-110.0,-120.0,2022-03-21 15:10:24
+Seth Curry,Total Assists,3.5,UNDER,105.0,-135.0,BOV,BOV,-110.0,-120.0,2022-03-21 15:04:33
+Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,-115.0,-116.0,2022-03-21 15:17:45
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,-115.0,-116.0,2022-03-21 15:11:41
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,-115.0,-116.0,2022-03-21 15:05:51
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,-115.0,-116.0,2022-03-21 15:00:17
@@ -16,7 +20,7 @@ Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,111.0,-148.0,2022-
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,111.0,-148.0,2022-03-21 14:29:20
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,111.0,-148.0,2022-03-21 14:24:03
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,111.0,-148.0,2022-03-21 14:19:11
-Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,PIN,111.0,-148.0,2022-03-21 14:14:05
+Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,104.0,-136.0,2022-03-21 15:15:32
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,104.0,-136.0,2022-03-21 15:09:35
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,104.0,-136.0,2022-03-21 15:03:46
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,108.0,-141.0,2022-03-21 14:58:13
@@ -28,7 +32,7 @@ Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,112.0,-145.0,2022-0
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,112.0,-145.0,2022-03-21 14:32:27
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,112.0,-148.0,2022-03-21 14:27:30
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,112.0,-148.0,2022-03-21 14:22:14
-Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,GB,112.0,-148.0,2022-03-21 14:17:15
+Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-03-21 15:17:17
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-03-21 15:11:14
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-03-21 15:05:23
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-03-21 14:59:49
@@ -39,7 +43,7 @@ Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-03-21 14:28:52
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-03-21 14:23:36
 Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-03-21 14:18:51
-Patrick Beverley,Total Rebounds,4.5,OVER,120.0,-160.0,BOV,BOV,120.0,-160.0,2022-03-21 14:13:40
+Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,PIN,109.0,-144.0,2022-03-21 15:17:55
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,PIN,109.0,-144.0,2022-03-21 15:11:52
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,PIN,109.0,-144.0,2022-03-21 15:06:02
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,PIN,109.0,-144.0,2022-03-21 15:00:27
@@ -48,7 +52,7 @@ Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,PIN,103.0,-135.0,2022
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,PIN,103.0,-135.0,2022-03-21 14:29:29
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,PIN,103.0,-135.0,2022-03-21 14:24:14
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,PIN,103.0,-135.0,2022-03-21 14:19:20
-Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,PIN,103.0,-135.0,2022-03-21 14:14:15
+Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,GB,110.0,-143.0,2022-03-21 15:15:32
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,GB,110.0,-143.0,2022-03-21 15:09:35
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,GB,110.0,-143.0,2022-03-21 15:03:46
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,GB,110.0,-143.0,2022-03-21 14:58:13
@@ -60,13 +64,12 @@ Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,GB,110.0,-143.0,2022-
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,GB,110.0,-143.0,2022-03-21 14:32:27
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,GB,110.0,-143.0,2022-03-21 14:27:30
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,GB,110.0,-143.0,2022-03-21 14:22:14
-Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,GB,-107.0,-122.0,2022-03-21 14:17:15
+Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-03-21 15:15:48
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-03-21 15:09:50
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-03-21 15:04:01
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-03-21 14:58:31
 Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-03-21 14:53:15
-Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-03-21 14:17:31
-Lauri Markkanen,Total Rebounds,6.5,UNDER,-120.0,-110.0,BOV,BOV,-120.0,-110.0,2022-03-21 14:12:22
+Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,PIN,-103.0,-123.0,2022-03-21 15:17:40
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,PIN,-106.0,-126.0,2022-03-21 15:11:36
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,PIN,-106.0,-126.0,2022-03-21 15:05:46
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,PIN,-106.0,-126.0,2022-03-21 15:00:12
@@ -78,6 +81,7 @@ Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,PIN,-106.0,-126.0,2022-03-21
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,PIN,-106.0,-126.0,2022-03-21 14:32:54
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,PIN,-122.0,-109.0,2022-03-21 14:29:15
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,PIN,-122.0,-109.0,2022-03-21 14:23:58
+Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,GB,100.0,-130.0,2022-03-21 15:15:32
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,GB,-104.0,-126.0,2022-03-21 15:09:35
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,GB,-104.0,-126.0,2022-03-21 15:03:46
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,GB,-110.0,-118.0,2022-03-21 14:58:13
@@ -89,7 +93,7 @@ Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,GB,-118.0,-110.0,2022-03-21 
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,GB,-118.0,-110.0,2022-03-21 14:32:27
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,GB,-115.0,-113.0,2022-03-21 14:27:30
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,GB,-117.0,-112.0,2022-03-21 14:22:14
-Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,GB,-118.0,-110.0,2022-03-21 14:17:15
+Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-21 15:16:37
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-21 15:10:36
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-21 15:04:44
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-21 14:59:09
@@ -98,6 +102,7 @@ Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-21 
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-21 14:43:41
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-21 14:35:52
 Kyle Lowry,Total Points,10.5,UNDER,-130.0,100.0,BOV,BOV,-130.0,100.0,2022-03-21 14:28:12
+Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,PIN,-104.0,-121.0,2022-03-21 15:17:40
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,PIN,-107.0,-124.0,2022-03-21 15:11:36
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,PIN,-107.0,-124.0,2022-03-21 15:05:46
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,PIN,-107.0,-124.0,2022-03-21 15:00:12
@@ -109,6 +114,7 @@ Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,PI
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,PIN,-107.0,-124.0,2022-03-21 14:32:54
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,PIN,-107.0,-124.0,2022-03-21 14:29:15
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,PIN,-107.0,-124.0,2022-03-21 14:23:58
+Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,GB,-112.0,-117.0,2022-03-21 15:15:32
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,GB,-112.0,-117.0,2022-03-21 15:09:35
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,GB,-112.0,-117.0,2022-03-21 15:03:46
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,GB,-112.0,-117.0,2022-03-21 14:58:13
@@ -120,7 +126,7 @@ Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,GB
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,GB,-108.0,-121.0,2022-03-21 14:32:27
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,GB,-108.0,-121.0,2022-03-21 14:27:30
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,GB,-107.0,-122.0,2022-03-21 14:22:14
-Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,GB,-108.0,-121.0,2022-03-21 14:17:15
+Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,BOV,-135.0,105.0,2022-03-21 15:16:37
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,BOV,-135.0,105.0,2022-03-21 15:10:36
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,BOV,-135.0,105.0,2022-03-21 15:04:44
 Jimmy Butler,"Total Points, Rebounds And Assists",30.5,UNDER,-135.0,105.0,BOV,BOV,-135.0,105.0,2022-03-21 14:59:09
