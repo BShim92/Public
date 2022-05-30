@@ -1,4 +1,5 @@
 player,stat,line,which,over,under,betsite,smartsite,overml,underml,time
+Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,GB,104.0,-136.0,2022-05-29 17:25:15
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,GB,104.0,-136.0,2022-05-29 17:22:38
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,GB,104.0,-136.0,2022-05-29 17:20:06
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,GB,104.0,-136.0,2022-05-29 17:17:36
@@ -25,8 +26,7 @@ Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,GB,104.0,-136.0,
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,GB,104.0,-136.0,2022-05-29 16:31:35
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,GB,104.0,-136.0,2022-05-29 16:29:34
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,GB,104.0,-136.0,2022-05-29 16:27:30
-Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,GB,104.0,-136.0,2022-05-29 16:25:25
-Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,GB,104.0,-136.0,2022-05-29 16:23:29
+Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-05-29 17:25:36
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-05-29 17:22:58
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-05-29 17:20:24
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-05-29 17:17:58
@@ -54,7 +54,7 @@ Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-05-29 16:29:55
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-05-29 16:27:52
 Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-05-29 16:25:46
-Jimmy Butler,Total Made 3 Point Shots,1.5,OVER,130.0,-170.0,BOV,BOV,130.0,-170.0,2022-05-29 16:23:46
+Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,GB,140.0,-186.0,2022-05-29 17:25:15
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,GB,140.0,-186.0,2022-05-29 17:22:38
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,GB,140.0,-186.0,2022-05-29 17:20:06
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,GB,140.0,-186.0,2022-05-29 17:17:36
@@ -81,8 +81,7 @@ Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,GB,129.0,-170.0
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,GB,129.0,-170.0,2022-05-29 16:31:35
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,GB,129.0,-170.0,2022-05-29 16:29:34
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,GB,129.0,-170.0,2022-05-29 16:27:30
-Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,GB,129.0,-170.0,2022-05-29 16:25:25
-Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,GB,129.0,-170.0,2022-05-29 16:23:29
+Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,BOV,100.0,-130.0,2022-05-29 17:25:36
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,BOV,100.0,-130.0,2022-05-29 17:22:58
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,BOV,100.0,-130.0,2022-05-29 17:20:24
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,BOV,100.0,-130.0,2022-05-29 17:17:58
@@ -110,4 +109,3 @@ Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,BOV,110.0,-145.
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,BOV,110.0,-145.0,2022-05-29 16:29:55
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,BOV,110.0,-145.0,2022-05-29 16:27:52
 Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,BOV,110.0,-145.0,2022-05-29 16:25:46
-Jayson Tatum,Total Made 3 Point Shots,3.5,UNDER,100.0,-130.0,BOV,BOV,110.0,-145.0,2022-05-29 16:23:46
